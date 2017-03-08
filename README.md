@@ -16,6 +16,7 @@ Heuristics-based quote extraction tool, based on "Automatic Detection of Quotati
 ## References
 
 [1] https://www.quora.com/What-is-the-best-approach-to-extract-quotations-from-text-and-their-speakers-using-the-following-rules
+
 [2] https://pdfs.semanticscholar.org/3979/b0125f77499de215fb29e1c5d8feae5cf476.pdf
 
 ## Todo
